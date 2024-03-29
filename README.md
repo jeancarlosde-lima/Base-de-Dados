@@ -41,7 +41,7 @@ Creative Commons
 ## Exemplos de Visualizações:
 
 ### Gráfico de Barras mostrando a Popularidade das Músicas:
-![Gráfico de Barras](bar_chart.png)
+![Gráfico de Barras](https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2020/05/grafico-barra-mercado-musica.jpg)
 
 ### Gráfico de Dispersão mostrando a relação entre Popularidade e Presença em Plataformas Musicais:
-![Gráfico de Dispersão](scatter_plot.png)
+![Gráfico de Dispersão](https://png.pngtree.com/background/20210714/original/pngtree-abstract-particle-equalizer-visualization-music-background-picture-image_1230004.jpg)
