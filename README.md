@@ -1,5 +1,5 @@
 # As mais ouvidas do Spotify 
-![Logo do Spotify](spotify_logo.png)
+![Logo do Spotify](https://wallpapers.com/images/high/spotify-logo-apple-ab3yz9000ze5i7za.webp)
 
 
 ## Descrição:
