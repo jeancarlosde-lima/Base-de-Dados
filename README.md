@@ -1,4 +1,5 @@
-# Título: [Nome da Base de Dados]
+# As mais ouvidas do Spotify ![Logo do Spotify](spotify_logo.png)
+
 
 ## Descrição:
 Este repositório contém uma base de dados sobre as músicas mais ouvidas. Os dados foram coletados de [Kaggle e Spotify e são fornecidos para fins de análise e exploração.
