@@ -1,4 +1,5 @@
-# As mais ouvidas do Spotify ![Logo do Spotify](spotify_logo.png)
+# As mais ouvidas do Spotify 
+![Logo do Spotify](spotify_logo.png)
 
 
 ## Descrição:
